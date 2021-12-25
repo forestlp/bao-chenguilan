@@ -1,6 +1,6 @@
 ## Welcome to guilan's Blog
 
-#### [小海盗专属圣诞树](https://forestlp.github.io/chenguilanzhuanshu/yizhikuailedehaidao.html)
+#### [小海盗专属圣诞树](https://forestlp.github.io/bao-chenguilan/yizhikuailedehaidao.html)
 
 ![Image](./sdkl.gif)
 
